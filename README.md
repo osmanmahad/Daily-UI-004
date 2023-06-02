@@ -1,5 +1,7 @@
 ﻿# Daily-UI-004
  
+ Live Site: https://osmanmahad.github.io/Daily-UI-004/
+ 
 Task: Calculator
 
 Design a calculator. Standard, scientific, or specialty calculator for something such as a mortgage? Is it for a phone, a tablet, a web app?
